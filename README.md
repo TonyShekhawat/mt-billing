@@ -1,7 +1,7 @@
 # mt-billing
 Simple billing input menu for QBCore
 
-# Prview: 
+# Preview: 
 - Video: 
 
 https://user-images.githubusercontent.com/89866234/172459680-7674b590-2c70-44e2-b8a2-40661241039e.mp4
