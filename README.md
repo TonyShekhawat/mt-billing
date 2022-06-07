@@ -23,4 +23,4 @@ Add to qb-radialmenu/config.lua:
 # Dependicies
 - qb-input: https://github.com/qbcore-framework/qb-input
 - qb-phone: https://github.com/qbcore-framework/qb-phone
-- qb-radialmenu: https://github.com/qbcore-framework/qb-input (opcional)
+- qb-radialmenu: https://github.com/qbcore-framework/qb-radialmenu (opcional)
