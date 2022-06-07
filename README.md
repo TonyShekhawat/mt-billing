@@ -17,7 +17,8 @@ Add to qb-radialmenu/config.lua:
                 event = 'mt-billing:client:AbrirMenu',
                 shouldClose = true
             },
-            ```
+            
+```
 
 # Dependicies
 - qb-input: https://github.com/qbcore-framework/qb-input
